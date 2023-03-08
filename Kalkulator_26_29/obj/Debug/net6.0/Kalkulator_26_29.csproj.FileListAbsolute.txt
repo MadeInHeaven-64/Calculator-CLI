@@ -1,0 +1,15 @@
+D:\DPK_BU_BERLIAN\Kalkulator_26_29\Kalkulator_26_29\bin\Debug\net6.0\Kalkulator_26_29.exe
+D:\DPK_BU_BERLIAN\Kalkulator_26_29\Kalkulator_26_29\bin\Debug\net6.0\Kalkulator_26_29.deps.json
+D:\DPK_BU_BERLIAN\Kalkulator_26_29\Kalkulator_26_29\bin\Debug\net6.0\Kalkulator_26_29.runtimeconfig.json
+D:\DPK_BU_BERLIAN\Kalkulator_26_29\Kalkulator_26_29\bin\Debug\net6.0\Kalkulator_26_29.dll
+D:\DPK_BU_BERLIAN\Kalkulator_26_29\Kalkulator_26_29\bin\Debug\net6.0\Kalkulator_26_29.pdb
+D:\DPK_BU_BERLIAN\Kalkulator_26_29\Kalkulator_26_29\obj\Debug\net6.0\Kalkulator_26_29.csproj.AssemblyReference.cache
+D:\DPK_BU_BERLIAN\Kalkulator_26_29\Kalkulator_26_29\obj\Debug\net6.0\Kalkulator_26_29.GeneratedMSBuildEditorConfig.editorconfig
+D:\DPK_BU_BERLIAN\Kalkulator_26_29\Kalkulator_26_29\obj\Debug\net6.0\Kalkulator_26_29.AssemblyInfoInputs.cache
+D:\DPK_BU_BERLIAN\Kalkulator_26_29\Kalkulator_26_29\obj\Debug\net6.0\Kalkulator_26_29.AssemblyInfo.cs
+D:\DPK_BU_BERLIAN\Kalkulator_26_29\Kalkulator_26_29\obj\Debug\net6.0\Kalkulator_26_29.csproj.CoreCompileInputs.cache
+D:\DPK_BU_BERLIAN\Kalkulator_26_29\Kalkulator_26_29\obj\Debug\net6.0\Kalkulator_26_29.dll
+D:\DPK_BU_BERLIAN\Kalkulator_26_29\Kalkulator_26_29\obj\Debug\net6.0\refint\Kalkulator_26_29.dll
+D:\DPK_BU_BERLIAN\Kalkulator_26_29\Kalkulator_26_29\obj\Debug\net6.0\Kalkulator_26_29.pdb
+D:\DPK_BU_BERLIAN\Kalkulator_26_29\Kalkulator_26_29\obj\Debug\net6.0\Kalkulator_26_29.genruntimeconfig.cache
+D:\DPK_BU_BERLIAN\Kalkulator_26_29\Kalkulator_26_29\obj\Debug\net6.0\ref\Kalkulator_26_29.dll
